@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "2ade1e527e000960ea8b81a5ef3175b9"
+build_time: [1534764084, 437168000]
+inputs:
+  "/Users/karemorstol/Programming/Writing/Swift Courseware/C09524_Professional Swift/Development/Day 1 - Lesson 2 - Kare/Code/TVShows/Package.swift": [1507816378, 0]

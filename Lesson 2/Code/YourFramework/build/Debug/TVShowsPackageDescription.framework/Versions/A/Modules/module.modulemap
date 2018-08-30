@@ -1,0 +1,4 @@
+framework module TVShowsPackageDescription {
+    header "TVShowsPackageDescription-Swift.h"
+    requires objc
+}
