@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Reference vs Value Types'/>
+        <page name='Wrap value in reference'/>
+        <page name='Structs'/>
+        <page name='Equatable'/>
+        <page name='Comparable (incorrect)'/>
+        <page name='Comparable (correct)'/>
+        <page name='Hashable (good)'/>
+        <page name='Hashable (better or overkill)'/>
+        <page name='Exercise - fix Crates'/>
+        <page name='Copy on write'/>
+        <page name='Enums - raw values'/>
+        <page name='Enums - custom raw values'/>
+        <page name='Enums - associated values'/>
+        <page name='Enums - indirect'/>
+    </pages>
+</playground>
